@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 I believe in lifelong learning. Here's what I'm currently exploring:
 
-- Improving my data science skills with Golang.
+- Improving my skills with Golang.
 - Mastering container orchestration with Kubernetes.
 
 ## 📫 Let's Connect
